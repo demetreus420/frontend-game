@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/frontend-game/static/css/main.c9a2d7ea.chunk.css",
+    "main.js": "/frontend-game/static/js/main.69ef55c6.chunk.js",
+    "main.js.map": "/frontend-game/static/js/main.69ef55c6.chunk.js.map",
+    "runtime-main.js": "/frontend-game/static/js/runtime-main.cd1d5b80.js",
+    "runtime-main.js.map": "/frontend-game/static/js/runtime-main.cd1d5b80.js.map",
+    "static/js/2.e24b37ae.chunk.js": "/frontend-game/static/js/2.e24b37ae.chunk.js",
+    "static/js/2.e24b37ae.chunk.js.map": "/frontend-game/static/js/2.e24b37ae.chunk.js.map",
+    "index.html": "/frontend-game/index.html",
+    "static/css/main.c9a2d7ea.chunk.css.map": "/frontend-game/static/css/main.c9a2d7ea.chunk.css.map",
+    "static/js/2.e24b37ae.chunk.js.LICENSE.txt": "/frontend-game/static/js/2.e24b37ae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frontend-game/static/media/Pixel-LCD-7.63d9c151.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd1d5b80.js",
+    "static/js/2.e24b37ae.chunk.js",
+    "static/css/main.c9a2d7ea.chunk.css",
+    "static/js/main.69ef55c6.chunk.js"
+  ]
+}
